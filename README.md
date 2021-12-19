@@ -10,3 +10,5 @@
 - проверяющие корректность работы функций сложения и умножения;
 - проверяющие скорость работы программы при увеличении размера входного файла;
 - проверяющие рост объема затрачиваемой оперативной памяти при увеличении размера входного файла.
+
+[![Code checks](https://github.com/valegeshman/WorkWithUnitTests/actions/workflows/checks.yml/badge.svg)](https://github.com/valegershman/WorkWithUnitTests/actions/workflows/checks.yml)
