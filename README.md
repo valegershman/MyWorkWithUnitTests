@@ -11,3 +11,4 @@
 - проверяющие скорость работы программы при увеличении размера входного файла;
 - проверяющие рост объема затрачиваемой оперативной памяти при увеличении размера входного файла.
 
+[![Code checks](https://github.com/valegershman/MyWorkWithUnitTests/actions/workflows/checks.yml/badge.svg)](https://github.com/valegershman/MyWorkWithUnitTests/actions/workflows/checks.yml)
